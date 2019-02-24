@@ -1,0 +1,1 @@
+DELTA_MAX = 120 # max px movement per frame
